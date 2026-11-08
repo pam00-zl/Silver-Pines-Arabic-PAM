@@ -1,0 +1,2 @@
+f278019daf1248d8c86d21202234dd23fa9516c5b516e882136353ecd57753d7  Silver-Pines-Arabic-Installer-0.6.4-PAM.zip
+f5a0a672a58852010b0d91048a4c5308ef9425f572009efff3c4436c76c9aa87  SilverPinesArabic.exe

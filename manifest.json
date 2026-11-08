@@ -1,0 +1,1128 @@
+{
+  "format": 1,
+  "name": "Silver Pines Arabic",
+  "version": "0.6.4-standard-installer",
+  "steam_buildid": "26489514",
+  "language_slot": "en",
+  "processed_table_entries": 3470,
+  "complete_game_translation": false,
+  "runtime_fully_verified": false,
+  "files": [
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/demo-only-content_scenes_all.bundle",
+      "original_sha256": "9b705bdb090360f1a3e43d5f11414e7ff2df91846dc80558ae0068cf4a7a101e",
+      "patched_sha256": "4a5e7dfe1fbb77591082100748ce64c99ba7e93bb90483d314201e3f34be649e",
+      "patch": "patches/000.spdelta",
+      "patch_sha256": "16f15ab439d3e0c68a2bb30bb1684008e11b7ed1107717b76ca9cc44f7fb28b9",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/fonts_assets_all.bundle",
+      "original_sha256": "07550796c463a2856464afda958d006b1cf6c5f1dff9ba0b3ff7f044d57133b4",
+      "patched_sha256": "be819bd62a3b8c5d814c6c4bc0a7ef12a8acc88aaa68de9d84328fc766d6328d",
+      "patch": "patches/001.spdelta",
+      "patch_sha256": "76ed992047c8edf6eea3cb0b592561aff5f7b91b13b11f6b60a575fff19b35e5",
+      "previous_sha256": [
+        "77a53c2c634c8257ca8a14f5730ec3c3261b6c165f5f6d10009fd5ad06f71bfe"
+      ]
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/localization-asset-tables-english(en)_assets_all.bundle",
+      "original_sha256": "c6c75594fbe6fd9663665d723ae63785379b9dc96ca26a3bd167e272d9c221e9",
+      "patched_sha256": "d2dffa4fb5cdd264da0a9089e6eb0abd2d2e3c95759cab6eff7aa1843259badb",
+      "patch": "patches/002.spdelta",
+      "patch_sha256": "5eb34752567261644d6824956b2b5c80197d43bf2edc8a2226873651ff5ddeca",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/localization-assets-shared_assets_all.bundle",
+      "original_sha256": "fa4f53f11d272abcf81b31e47605e662edad61417f04a0919cb36df123ff5f47",
+      "patched_sha256": "a6a9496115ad1ddeb24a1929f91d2484e54fffc79091ea6e98ca40c13ad049a8",
+      "patch": "patches/003.spdelta",
+      "patch_sha256": "d9e00e2c8614671d055cdf96e960b10e3cb0a481da4a20a4e6e21a93b84b64e2",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/localization-string-tables-english(en)_assets_all.bundle",
+      "original_sha256": "0bd9bb1b2af5fe1316e37f8c6e27d9dda6a1c955b3cb2c675e51bc622b291f20",
+      "patched_sha256": "8dc5d9c76998de3b99e20ea0c100b96326306f7e7e0c8fac42c7f9451e903593",
+      "patch": "patches/004.spdelta",
+      "patch_sha256": "4c55913ca79794c9a148cd69510452cdd1a6f52234405ad44c4e9dbaae860b1d",
+      "previous_sha256": [
+        "8f9930215e06b382f3ea46bd4e3062b1e2832fd21b52ae4d4c20ce102edc7408"
+      ]
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/prefabs-ui-collectables_assets_all.bundle",
+      "original_sha256": "af39ff8381e7532f116d77120d64250596b9d211108c3ad1dce465b2e2b34a9d",
+      "patched_sha256": "76f0ef3510c914ffc3ed1d514e0d38c0694d887ea7a05fa147cc8998202bb5f2",
+      "patch": "patches/005.spdelta",
+      "patch_sha256": "d71eacfe835df224db4c92ea793f5719d4ea0b3f8218a05defa6c363cc858284",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-levels-firstchapter_scenes_assets_scenes_minigames_motel_fortuneteller.unity.bundle",
+      "original_sha256": "f97973fe57296004df0c1e2e30a8450d9904e71dc3974fac37044b3d104f969c",
+      "patched_sha256": "dcbc8d10a35aaf33d8736d70af7bc1ae23f107625308485fddb53727aae85a86",
+      "patch": "patches/006.spdelta",
+      "patch_sha256": "b9134e1f00fd7fbe35a8aa29b9fc5e80722da57e94d8017fa3fcb7eb926c373c",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-levels-firstchapter_scenes_assets_scenes_minigames_motel_gate_keypad.unity.bundle",
+      "original_sha256": "97ea8ea48466099d529f1403d7433658faccc8cab7704b004dd83ab856710e65",
+      "patched_sha256": "bae4025083d48d22a023accf46d6663a8b5aad97e9dc16b2265b4a52ef3f26b8",
+      "patch": "patches/007.spdelta",
+      "patch_sha256": "6a4c2cf54d4269df9474f8c30399991c869b3c6b4a401808458fbfc8877676bd",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-levels-firstchapter_scenes_assets_scenes_minigames_motel_polaroids.unity.bundle",
+      "original_sha256": "ce85db7d7fd9a82d8a5abc3535e72f6c4c5e4b36eb588db0789941cbedc8033a",
+      "patched_sha256": "3d18c953f378f9d47945d443373d78e028cc83dced80b3e2fb6138d1a06e8d6d",
+      "patch": "patches/008.spdelta",
+      "patch_sha256": "5ae8ece5f29bed94658d6bc1c8fe3e0a9b929a9b3a881813f9286649c5c411e3",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-levels_scenes_assets_scenes_credits_credits.unity.bundle",
+      "original_sha256": "09660ae6061ca72b401ada8984587e8157f8550a5651f990e5b587c3cc67c077",
+      "patched_sha256": "794b81f2cf7fcd75768a95ec648f274163598a09c21ab849c3a95f03161cd146",
+      "patch": "patches/009.spdelta",
+      "patch_sha256": "4c28bcd52c46e942a081f5d27df98789bc00d958a7c88845a4398515b8d484ab",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-levels_scenes_assets_scenes_levels_apartment_apartment_stairwell.unity.bundle",
+      "original_sha256": "df52d66ca080bb397265bf1e1e0aa6e9c848e94db6da8656dda9ee08c5b89554",
+      "patched_sha256": "3c6aa212178f0297ed7e90cfa9930b033ebfdc20301aa9e214073039c28b90a5",
+      "patch": "patches/010.spdelta",
+      "patch_sha256": "e674b31841632efb072c816dc35b3ef1f6f8a1dfe3e51f3411fba82b9977a11c",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-levels_scenes_assets_scenes_levels_endings_ending_beach.unity.bundle",
+      "original_sha256": "1b11b468dcbfe441b8c00c8675762d4b62e05840f1108f65b58aa8920aa3758f",
+      "patched_sha256": "a1c1ee677a359515a78e7a8b0f8af91d88e8befbc86ec22714beac31f3432409",
+      "patch": "patches/011.spdelta",
+      "patch_sha256": "0060d3d1a2da6a55cd6e5cf4be1ecb6555836dd6ea50967d23b527aff0083e11",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-levels_scenes_assets_scenes_levels_npc_playground.unity.bundle",
+      "original_sha256": "5e97777dd7a72d3936a92d198b51f32d449a79aa23ff6d1f51d2841465a723d3",
+      "patched_sha256": "01654fdc8e5832e46ecc3ee58a4e1f1548eb01a85ca691d8b96573ca185229e1",
+      "patch": "patches/012.spdelta",
+      "patch_sha256": "a44ac1b622d2233336b32b7bafadfbb00ccb9e7989b0d39e1b5a58c13eba5f43",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-maps_scenes_all.bundle",
+      "original_sha256": "a89b52d988f100372af0e6b4aaa4c49fad4b55dda92cb86689c7afc7ca008ddc",
+      "patched_sha256": "039d135d7a1e8d1a0d268dcefa81a8b86e4b983eb8fa984358ea6d9b60e5c27f",
+      "patch": "patches/013.spdelta",
+      "patch_sha256": "e66587a2ac4ee764c3e9e069df79f6916d8a5a867171e3d58d318f752249de1f",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-menus_scenes_menuscenes_gameovermenu.bundle",
+      "original_sha256": "3422cbf00a03a6cf15b013bd2f35ffe2d9d2d0aac02eb2b473f1735f7159ebb4",
+      "patched_sha256": "99215256d63f518bde8cc363ee2934c9194e89a3959f0e81d0af60e1ff2d0e95",
+      "patch": "patches/014.spdelta",
+      "patch_sha256": "c6fe71b41ae6d0f22a999a80b76b3d3589d86a11170bd2a077c462982d055cd9",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-menus_scenes_menuscenes_ingamemenu.bundle",
+      "original_sha256": "309a3ccc3c614c6d3a71c58074034ab372786fc85680db68619078efbc6e711c",
+      "patched_sha256": "76dbc3b6cab176f320e71e1a2e2f3addc2a795659882f92956ff7cb4a2b8d20b",
+      "patch": "patches/015.spdelta",
+      "patch_sha256": "87090d0dbf9c062ea0aedff6320463f6d8374b567e16b08b934a2819ba457716",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-menus_scenes_menuscenes_savegamemenu.bundle",
+      "original_sha256": "9cc214e4db38be1dc1133f7236e0b169c6039d64b2643321ffb87f674197ca28",
+      "patched_sha256": "9a96900591a5e61a11e626fb2b4f57ae42c02e1c1a9d942ba142a3398f060ff1",
+      "patch": "patches/016.spdelta",
+      "patch_sha256": "e09d18cfcaec2ebc0cc271bf9ebf22d0971ff0095c2c1438da34cf21e4aade21",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-menus_scenes_menuscenes_systemmenu.bundle",
+      "original_sha256": "54ccf828b3b99a645a8c1544fe97d2c4ab8ad9a1557a77bed042a7ae0a330709",
+      "patched_sha256": "c9da167af1253b1b6eecfe4285a742318cfd975b8185948a577d023c669e2ad5",
+      "patch": "patches/017.spdelta",
+      "patch_sha256": "d15bec6876c9079f9aa075386bc4ce0548d2364b08637243857c9f9550cd30d9",
+      "previous_sha256": [
+        "39f991e7a0d035b328d20aab46c50526d106b69d6fd172b0c4f1b38f27e9ef1a"
+      ]
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_apartment_buzzer.unity.bundle",
+      "original_sha256": "1155bad1266bd3d376bbdd96bc9b319a49dc10913dd114558e452baf919e0c80",
+      "patched_sha256": "59813286d902eed203b7176787724470c0612f0b5e1a021c9b86d6cb459f4f0f",
+      "patch": "patches/018.spdelta",
+      "patch_sha256": "e19c90c7b12e55f371d32a581a54069ae0f97ab3f0fa2cb2ad001199409da9ab",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_apartment_laundry_window.unity.bundle",
+      "original_sha256": "b7b35cfbc7a215b548eeb471867815bcc43a7682de789ca824784a5cda22f3f1",
+      "patched_sha256": "7be593a38a2762268f8877c425b9e0f14ec6d2f75b9da735024650c08251a15b",
+      "patch": "patches/019.spdelta",
+      "patch_sha256": "712beccfaaed078b80eb645ba9a254ff2eb45d26b3b9fec8f55822a1faf1fda0",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_apartment_mailboxes.unity.bundle",
+      "original_sha256": "67ba4b0744ff534e4702b424139719a87cc0d0ed5a715e497b51324f3a1a07e3",
+      "patched_sha256": "2fb5d0234571de22757487a8028e78b5136089f9f64eafcda9b1bb275266604d",
+      "patch": "patches/020.spdelta",
+      "patch_sha256": "7f9081871ded94c0cae93a4d9626d30306cda498aeb0a05244c7bd77124ca039",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_apartment_roomcypherlock.unity.bundle",
+      "original_sha256": "a7422a0c1e998dfed90099074a53ecc4fc629cadbdceafe18f7537e6273bad2b",
+      "patched_sha256": "04ae8ff62bb6b2970d94e1b16484e48be3f9f9cd4ac7fec87ee20cd7cb9c4de8",
+      "patch": "patches/021.spdelta",
+      "patch_sha256": "ed7ce5456555806a5d79459bdb718dcf5b9dbb376fbb08b16c28b2947e929803",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_apartment_supervisor_wall.unity.bundle",
+      "original_sha256": "6a1459800b54be730053f605a34dcaa73dbd059fd65279557ffd40e51afa2553",
+      "patched_sha256": "d3e68e7badef7861af577f110302ca39d21958a421511cc3b3eae5fc42ccc452",
+      "patch": "patches/022.spdelta",
+      "patch_sha256": "a02604439e144cf8831d08cb192c27dd3bbcfb2f7a008c154df03f8f8fa508ed",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_apartment_washingmachine.unity.bundle",
+      "original_sha256": "8e9dbe43bb03f74a0dcc170ed7fa090272e5d98750a3ff8ad9d766eaf89452f6",
+      "patched_sha256": "f3a3d739d8ed88f1092354fdf0e481e966d37b76584a4df2b0c29f8b9f30f6f8",
+      "patch": "patches/023.spdelta",
+      "patch_sha256": "cfb7b13116e41e0277f2fdb8e6975f89cc7922519de1dbbc2d8851e131bb102a",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_apartment_window_peak.unity.bundle",
+      "original_sha256": "d3c2c367bd581c22512a53ac0504db3cb5a62b20de5ba89743716f0f57d86b19",
+      "patched_sha256": "adcb0a91f61430a5beef3e324a0d9881bea6cd2a437fa4e32bda2771c1fe8070",
+      "patch": "patches/024.spdelta",
+      "patch_sha256": "c4d203182a6a3e659229684638aced42b9fe77efc28e5ef1f739a7c58b2d0937",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_church_attic_keyhole.unity.bundle",
+      "original_sha256": "9c36d9eba11b1754b3078ed9a004221833e5a4d4b7c4d2d40bb060c97b5a041e",
+      "patched_sha256": "103e1c274037a6bbb254972308053987074bb9fa5f3c23d220773b5fe90b8593",
+      "patch": "patches/025.spdelta",
+      "patch_sha256": "2e14916ee2b42cc0deb826f6f4300f9ab684ac1aa00955dd407e85b2e8a14f1d",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_church_basement_hole.unity.bundle",
+      "original_sha256": "42b92604caf500ecad48445e4e0bab0052e3c837a03f674fd62368f5bf56309f",
+      "patched_sha256": "c78618ca5e4a5db4cc5e5a2a7ad3ad3675028c17734f83027faa6100d78b5f22",
+      "patch": "patches/026.spdelta",
+      "patch_sha256": "7af1d8ae085656dc28926f3028cf98b36d9a9b198e89198f4a63abdcfbce50e4",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_church_cubegate.unity.bundle",
+      "original_sha256": "ba565015261bc86b60476b3db38a37cfa9fe74747bc2ec853889796cff2012ed",
+      "patched_sha256": "527fe85ab42d636f8ae464359d8667e6e1b7404afb1b0afff84e947ec9a15c7f",
+      "patch": "patches/027.spdelta",
+      "patch_sha256": "98f0a72a6101303033d0baa350487a9ac343a5e20689b0f9c49159397f609fcb",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_church_hill_crematorium_garland.unity.bundle",
+      "original_sha256": "7895500fa1295275701f8831dc6dbfe5180f7a0a522a61acdd9df98c522122e0",
+      "patched_sha256": "acce5a049f85807663d315a62abb30b12c733a61a24d20343f4861a51c7f7cc6",
+      "patch": "patches/028.spdelta",
+      "patch_sha256": "8358630b1275f9ecdb15eca70f54f37f230496d890e5299500134532848445ec",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_codelock.unity.bundle",
+      "original_sha256": "2bf4428c0a3243b8e6380168697bd3e390ed7908a9d05455d50efe36309d9735",
+      "patched_sha256": "f3d57d757a43a61636f78af6eec2661b2c02d6335da301334ce0467e78a42da8",
+      "patch": "patches/029.spdelta",
+      "patch_sha256": "f1172c5f4c7704dc259dba21082aec524ea243c601e52c83c79fc36627736cbd",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_codelock_sportstore.unity.bundle",
+      "original_sha256": "aea13cf0908b1f2edb7cb603b22eac533e4529e7bf4941ca750fd7fd98a787a8",
+      "patched_sha256": "e1d4c9577bdadf61b9afe8a1eff22b16bf1167de66706621cfc81aed40d4a144",
+      "patch": "patches/030.spdelta",
+      "patch_sha256": "0ed3afdf3cd1a707fb7eebd3443a2038e632b31ddfb3af108416aa87c24ea2de",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_cogspuzzle_pier.unity.bundle",
+      "original_sha256": "72f41e2d0be8d8c33172c3bcb3ddda90af0cdd987d465db6d4aa99e47f975931",
+      "patched_sha256": "296c6b57270649165be76f3f4907ca3bb0d4263fca5ff7b4f0bc6a62804113e5",
+      "patch": "patches/031.spdelta",
+      "patch_sha256": "61e30b6884412c8e92de31eaeefcb584584c4a14e33eaf5817b02f5f6a0d18af",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_collectablesviewer.unity.bundle",
+      "original_sha256": "3f37a03e21d8b073d1cbc2e4cb22f9b819c7cabbeb1d72877f8509fa57d62f13",
+      "patched_sha256": "003e8c2e13e6b34e815a49061568fae26a7a83892abcda6ddfe34b9a73832e5b",
+      "patch": "patches/032.spdelta",
+      "patch_sha256": "5d94b56a434fdfcaa97ca22202ed965746d093575f5c662b970a6b468d163168",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_computerdesktop_community_center.unity.bundle",
+      "original_sha256": "132fa1f3e052671cace78705c87e6fa76a67c33a5e9cf67ee6c59b2d8c7ed1b0",
+      "patched_sha256": "38cad03f2d51fdf735b72ef62a68a36aef131db47da010ac712947cca86ad779",
+      "patch": "patches/033.spdelta",
+      "patch_sha256": "9c5702ba4b7f55a3ba5310b91260393146e0707ddd067e49b3836bd38298bef4",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_computerdesktop_pierrestaurant.unity.bundle",
+      "original_sha256": "645266669b1168e09816c7415e0b1bfe4d90344e4c6ae9d6d2f591fee7129a25",
+      "patched_sha256": "b1b5b4ad13ebee94f8d6077ebefa72e0e2824d50daa757dd3a32ca301d77af87",
+      "patch": "patches/034.spdelta",
+      "patch_sha256": "5dd2e6c83f1b7ccee4a3c12340edf7287759d5fc8b73239b25dfa10d7387a717",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_computerdesktop_police.unity.bundle",
+      "original_sha256": "70f2686b20ac761471e094bd2f9f167d48212f722eb6df6e1fbeaf517182b53f",
+      "patched_sha256": "5f1f50ecf1d99aad01b12dae94edfc8ba1c36117a15519a8a073cdfd5a22245d",
+      "patch": "patches/035.spdelta",
+      "patch_sha256": "29514169441cb291847941936ac86a24074b6b86af1eda6ceb672412da43c2cd",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_downtown_cable_station_bells.unity.bundle",
+      "original_sha256": "4be9ddb4a3eff149f288f8c5aa2ee8b04c5d5f5f81b3fb64a23c2dff1cab5e23",
+      "patched_sha256": "bdb1c8a4c03a6fdd85ab392a01946be6c83307188a7b486d62ec40849dc9fee1",
+      "patch": "patches/036.spdelta",
+      "patch_sha256": "6fc709e752042584178cd3ed92cda3d526634232745042cf0cec33e5c553efde",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_downtown_market_sportstore_window.unity.bundle",
+      "original_sha256": "a1171d248c87f56e2dc9d6159d5db5bf837e4044dc946f6072cafe7cdaddcfc6",
+      "patched_sha256": "4324e72f3a9c058d55f9ee506d494a75de3f676e2c35f20f804c89b714aa75b4",
+      "patch": "patches/037.spdelta",
+      "patch_sha256": "8f2d491873ea3030a20a37f59820d063e4ea9e29061f3b3541b21d96f01c98c1",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_downtown_rabbit_newspaper.unity.bundle",
+      "original_sha256": "ac1960a0d3dda9025f70c7c872e02a5afc1009a9b396b91d7ae95e4f92bcb702",
+      "patched_sha256": "54a74c6f5401a3bf9408677096c83810777717ab93ef4b942be593a41e29dd25",
+      "patch": "patches/038.spdelta",
+      "patch_sha256": "fd0f8c118566ea7f48ffd5b41b0f161e504059a72b960b9e5c0e41a6da2a3f83",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_downtown_rabbithole_ringdoor.unity.bundle",
+      "original_sha256": "3ab26a812606dc37e1be49f050e0fb2c895bbd5399d6bdbb798e31c6bc13bcc6",
+      "patched_sha256": "4aa32c449d12361a9a1f0f98397b516ad2099d648319f623adaa1506644385a4",
+      "patch": "patches/039.spdelta",
+      "patch_sha256": "b3a292549de441b38b1403703c2fee9c7d76f5f8c89a07958608562a4e6ce8d4",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_downtown_rabbitholedoor_lock.unity.bundle",
+      "original_sha256": "ddab36701acdb8308ed752b06a94b19ad3ed48a4e25051b812169094cda54123",
+      "patched_sha256": "d21eeb4712131823a8ac2c19c60bdd2972c04127e4db3d5709a726437cf61c36",
+      "patch": "patches/040.spdelta",
+      "patch_sha256": "9a54640a76836446e677b6423ad09e548718732ca9c93376df857fd6718a8331",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_downtown_sewer_pressure.unity.bundle",
+      "original_sha256": "5874e450e6d61034c9c0620e2a2593dfb9e858d7e3d892ea9033f89ba40f06be",
+      "patched_sha256": "171aab5ecf587d38694432e42ab40df62fbba408ad568538a40086f586fedb90",
+      "patch": "patches/041.spdelta",
+      "patch_sha256": "f4ca8b75feacb7d2225c813cabef773479139b30ec284c0c8a0269f93beb8c17",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_elevator_apartment.unity.bundle",
+      "original_sha256": "148e1b1b1681f219a84151dc8d0e907bfdbbdad1340ffd7585ef288ecf211c04",
+      "patched_sha256": "15a1f46a2752563de64bf2118325282df620e14e0bef0c90be71fe761ecc9585",
+      "patch": "patches/042.spdelta",
+      "patch_sha256": "1686976c15d9813b53f34b2f135c070bed9f5e1477b902ace44c90e0575e152c",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_extrasgallery_jukebox.unity.bundle",
+      "original_sha256": "91e12e0c6829e1d01aa4bcbf3c6584a1f935f34a2549fa025e3a97271eab0588",
+      "patched_sha256": "0bd5ff3e5c900d85df75aa1fedc2f41f959c00b47f6a5d6349bc051a5d51a7f3",
+      "patch": "patches/043.spdelta",
+      "patch_sha256": "341cc41200cdf75b67d3251d9a831b603545682c00f9e1a7b3b9d0ce989492d5",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_ferry_fusebox.unity.bundle",
+      "original_sha256": "48573a6e5ef40cfd774c74e9b5643928ad88db7e9c0fff4d9da7462ed3710393",
+      "patched_sha256": "e0032a3ce0ea4d13052beef4b1152e82852c4897a871645b0dd386cc77168bd1",
+      "patch": "patches/044.spdelta",
+      "patch_sha256": "0527216195cc11c161c0db82b0d449a19bf02b118a492fe94c19becd6628f884",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_gasstationpowerswitch.unity.bundle",
+      "original_sha256": "fd2e97b3690b9bf0ac45cbfbffe5ea107ed99291f8cafcf9616d11282caba876",
+      "patched_sha256": "143ad7310589440845d01a9dd7f626aa7f3dea23322ae736c220cfe8ec4a115c",
+      "patch": "patches/045.spdelta",
+      "patch_sha256": "b2fa1271ed2c93944574c799396b192f7ab9451ed85b323a606957e59e5e89fc",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_minigame_apartment_paintings.unity.bundle",
+      "original_sha256": "054a860b782a95ee38fa54309c32bbfe2866186894caebfb0dbbcee12f142e79",
+      "patched_sha256": "6ac6b223ff2340c130a80c7daef0005ebf4a14d0ec41c03f3a314d0f90465c2b",
+      "patch": "patches/046.spdelta",
+      "patch_sha256": "629119f00814c3f94faae764bc2fb29891ca43e66274c2deb6783ad5e05f67cf",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_minigame_community_center_keys.unity.bundle",
+      "original_sha256": "f9e93c274839536d1b516a2fe4aa07a24efc853a00270b582fae36b8e00c2df9",
+      "patched_sha256": "9fe734e1f4345e659da2d5111377874051cd2f5aba9e4de11c0d870d88ef9fbd",
+      "patch": "patches/047.spdelta",
+      "patch_sha256": "9f7af23110f5cac80cda6b58effadc248e9002baac9b2895de16fc27a7953cbb",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_minigame_community_center_printer.unity.bundle",
+      "original_sha256": "79344b8e02da563040a19f3277a1a6294543fb1563ce7821a7d022a2feee3094",
+      "patched_sha256": "9640ab1773b9a7ae09b15f7c1e2f47f3aa6d2e33a36e9d93700929fb384aff13",
+      "patch": "patches/048.spdelta",
+      "patch_sha256": "8c3d7ffac67170decbff3d2c26b171100f2d69f97b0a434af0c4cd8cf597b128",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_minigame_downtown_alice_water.unity.bundle",
+      "original_sha256": "c1a4939d48b5fdd001c765fc56470f55d9872ac0ad2248768a5658a3ab733bfd",
+      "patched_sha256": "aa508d010a53e59648d5985dd20024b18f1a803d116c4d9df6ccbc84d87a1349",
+      "patch": "patches/049.spdelta",
+      "patch_sha256": "6549b7919bfa1a89742ea1177e5e1f0cd55768a8c2c51419180f120dc187232c",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_minigame_downtown_sport_jersey.unity.bundle",
+      "original_sha256": "7658359068a84374ebe7b1f31299e4055f44297c11d81217f7ef392d72fafe46",
+      "patched_sha256": "a33e7208b8c7603bb92d2bd18ccf72f5eb8ae69c5bea5b0a6f9c2b88e3c555a9",
+      "patch": "patches/050.spdelta",
+      "patch_sha256": "22728530c32b6c6b44e2f3ae7c440e59852928b611f87464f8aa85dc71539e61",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_minigame_pipe_valve.unity.bundle",
+      "original_sha256": "05e5787555dabf047daf524098bbdab986c842c5427d6ea2ee3c78aaceee89a5",
+      "patched_sha256": "843017c39777f8555671ebc4ab45e81f03e7366f1dac3f9e0abed1ba40980f27",
+      "patch": "patches/051.spdelta",
+      "patch_sha256": "40cc2822d4475f21abfbf86ba9842cd079603ace5a5713f009f5adc49b94807b",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_minigame_sheriff_keys.unity.bundle",
+      "original_sha256": "04aab7e9ddf543615c909c3b70eb3de8f67ea593cf69afaca3329855039ef8f3",
+      "patched_sha256": "63dd9f12e7cfea524ac8eaf27e2d955125a4f1473e083857751ca3f88fde53ea",
+      "patch": "patches/052.spdelta",
+      "patch_sha256": "3a570f2c27c200ab534e42575e00f9666ecbfd4002285054f6f3db4f6a3c593d",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_minigame_sheriff_tape_deck.unity.bundle",
+      "original_sha256": "ac55c8dd04e603f49a236d4423414be92fe3f4039b7f7fef822d54652a5598d2",
+      "patched_sha256": "ca4a4ca7c1ec4e6dd7e77840f28aabc50746192d5249203d0d51bef6fb0c4191",
+      "patch": "patches/053.spdelta",
+      "patch_sha256": "722b1c55bb060e3ef2b7d551b5ecfa3c2b92356d545b2bf711d29e0c9faf0e0a",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_minigame_store_calendar.unity.bundle",
+      "original_sha256": "ddaa356d7f5d8a5264fa799ddbda66b829fcf3cb0d90ecb10a8c9076bc68799f",
+      "patched_sha256": "debbe3de4a8db3f8871a86e5962269cda9c5cbaf986b618fc21757a3ba667930",
+      "patch": "patches/054.spdelta",
+      "patch_sha256": "bd63059cea669613d7c3e1cb88dba973e390c8498eeea5b136fc4e57fd030bb9",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_minigame_studio_nightmare_keys.unity.bundle",
+      "original_sha256": "b59e97a75b219623178ad84d52bcf2e900c8486ca708dce1e6d80e525234021b",
+      "patched_sha256": "9e983f6e3d51a72d0a833728692a39e60d90cc442789edc4c735833a3e14c993",
+      "patch": "patches/055.spdelta",
+      "patch_sha256": "850ca68a9f24a36e0870a8872b5b1f8f14853d6df4f4a7c451711b1ab3ae7923",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_motel_pool_grate.unity.bundle",
+      "original_sha256": "cfcd9a107f2cf83c1d9581eae0e094a5b4e9fa6006694451772ab7b6e63b15e5",
+      "patched_sha256": "1a7b2964f2ad6a3631ce0946023ad3286de242cec5797793a620c65a419d7c66",
+      "patch": "patches/056.spdelta",
+      "patch_sha256": "45b699d78c950bdc3d3c0cdb882b386373db73ed0854e598533b87001cc2ee20",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_motel_shop_basement_tableview.unity.bundle",
+      "original_sha256": "71f7c143abc086ed8e0c7d284a5e9a5efa85deb0bb6c9372765fefc2cf14d2b6",
+      "patched_sha256": "4733c5a3f70a2e176ba4581e07e1fd38a0f1f5ccedf737cff4723362bf3c9af2",
+      "patch": "patches/057.spdelta",
+      "patch_sha256": "c03fe738d37d582be2fa256d2e233e9ca581c716bbc72598eaf2f0659e7045de",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_motelfusebox.unity.bundle",
+      "original_sha256": "37bb2f8e3b4c57a637037fd7b3789df185aef6da56e781dbf1eab564297e9357",
+      "patched_sha256": "83c208631debaed7782d0c6294f0cfdbabc6ab7f0a8814b103f0d08195fef0cc",
+      "patch": "patches/058.spdelta",
+      "patch_sha256": "83b016027b79ffea5565a325e8c899b5c78b354120b4250492be70b71dab4431",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_mountainclub_pondartpuzzle.unity.bundle",
+      "original_sha256": "b96bc28d6e8aa58fe4c3989bfd75200b750763ed7888becd7ce0b1c98c9e42c0",
+      "patched_sha256": "2c88afb563d1ec56402790927989fdcc08cb07978046b499288eb17c541c4017",
+      "patch": "patches/059.spdelta",
+      "patch_sha256": "10d719e337ef40ea19b903e2176f88d24acebb2561c030be86e3db53d5a8160c",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_nightmare_rotary_phone.unity.bundle",
+      "original_sha256": "048d45724b473bb3829ce5761d30ad94dd5c80e007549d424478e53838f9387c",
+      "patched_sha256": "b0716787f47c3191b6d974fd84ae2d13608a8ea25c77198fb1ecc196c4db823b",
+      "patch": "patches/060.spdelta",
+      "patch_sha256": "439b2e968158ce0776e81cfaabd259a6f227fa3e55826997d53d6a3ea3d40553",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_nightmaremirror.unity.bundle",
+      "original_sha256": "c09e2bc7d7c3c2f1037b78c47b0be314ef40b9d0b9147587ab1a487e7663cd24",
+      "patched_sha256": "ab8b4567d5b4d9b2d3bdcb58271af1c078be404e2961449a8e71b9c1ea72c6ee",
+      "patch": "patches/061.spdelta",
+      "patch_sha256": "3bb4bb82715e3ffd0ac2409ce486f7804d55f2b35cd28c7f46b9b57ef8de09d8",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_outskirts_binoculars.unity.bundle",
+      "original_sha256": "b605904b5e3e899c11b1bb3240ab1c35e851af75d38430da880cf72617731509",
+      "patched_sha256": "3ee17f672c57c738b4df9f60e4e7ac49414ce9ee49a84621f8d451fa11803cf0",
+      "patch": "patches/062.spdelta",
+      "patch_sha256": "6ee76de6708b6c0a86b86b18a6f806ee692c8fa2ab386f9d4ee2cf50b4c75986",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_outskirts_birdcage.unity.bundle",
+      "original_sha256": "255b32a2bebe78d826628a4b43024fb49a77821be9cc1bc983b0669c9161433e",
+      "patched_sha256": "c2ca30c94449ed596c55bed287868efe88bb080d37e95caca048689e739e3c8c",
+      "patch": "patches/063.spdelta",
+      "patch_sha256": "9058c8ec0e23535aa3cc0a8332bc4268efb07c635acf9b7e69445a6607c90deb",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_outskirts_cartrunk.unity.bundle",
+      "original_sha256": "8a0b2814891dafc541747aff3bbf899764e6f4914acbf46bd5d754a13b6726d6",
+      "patched_sha256": "7dad9042630f6df1444d90a6efe5c2e4ad6eec9b07bb399c641a97d3130ffc96",
+      "patch": "patches/064.spdelta",
+      "patch_sha256": "8b81518548ba24697cde420cbed7d2e37dd7f77e4e244f51f21b7d2b6225ccd7",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_outskirts_cartrunk_motel.unity.bundle",
+      "original_sha256": "fd17f5ee924271ab207bc894ea7606a47b381c9f5facda2b9a7d9c6fea164872",
+      "patched_sha256": "e2c6fbea1860c69ad78a4b07c810c1780857431a6dfe1eff31fbb9e834392dc4",
+      "patch": "patches/065.spdelta",
+      "patch_sha256": "bd62bdbaf01b44a7feb4a94e779c954c654dd68dbe1208bf127696fcd505877f",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_outskirts_diner_kitchenviewradio.unity.bundle",
+      "original_sha256": "e484cd1222ef83abfa97bc06824546ed4f76e9fbb14659aca0ab8d4a2e66c045",
+      "patched_sha256": "38d074168aef8e1cdb936b4e5b1ed8a0075cc7398c6fa5346b3535a28a696812",
+      "patch": "patches/066.spdelta",
+      "patch_sha256": "645ed811855447533f0df66ac8d0ba8071567599a462de2a9f05563f63b51c22",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_outskirts_hardware_store_broken_lock.unity.bundle",
+      "original_sha256": "a90803b6020a93876e16046deea8e76ea84b9b1258bb761509762bd3be5fe5ee",
+      "patched_sha256": "332e67b8f83781a143cee9c16c9fd692c97f8e6111afeb9ee8fd05db3942b41d",
+      "patch": "patches/067.spdelta",
+      "patch_sha256": "95808baa15aa369532ff35c9a9aace85496f1f3a890476ebbbd7bef67f906906",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_outskirts_loading_area_bag.unity.bundle",
+      "original_sha256": "9437ea9a438b76e2038b346a9ddc6b93b8853d925dba129138897215ceda48aa",
+      "patched_sha256": "7a12490ab8c6073ade1e9c2067ab02127b7978b6c997c4dc1bd54a71ad0c2e03",
+      "patch": "patches/068.spdelta",
+      "patch_sha256": "2b098a3d1464618cbba9b6463e34b4b0fa2e8299c71a4c9e74fb3dafb8862201",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_outskirts_ticking_room_wall.unity.bundle",
+      "original_sha256": "7c57a43c4af7f3d446d9eac5e793cd9e86c96c2d2a8111ebd089633fe760153a",
+      "patched_sha256": "3c6aa53a17c7ee46a3a4359ff6450b99397654088079fd340b676e81b5333782",
+      "patch": "patches/069.spdelta",
+      "patch_sha256": "e854955d04ee5b3442a39f797e9439cbe51f91f0a9cd77205b75dc0a08d3f42d",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_outskirtsbeach_shipcontrols.unity.bundle",
+      "original_sha256": "0146a796bd479ba89ae128a95d07533479ad322d4eccfa05db7ec20113db6c15",
+      "patched_sha256": "6d882c5d24c4ec4aeb546d193d6294cf9d960f36e0c37dcf8e22899d81b464cf",
+      "patch": "patches/070.spdelta",
+      "patch_sha256": "b0a66e2c214fb251c378ec2e701885d98471c6572241521823da7c5a484f0417",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_park_sewer_peek.unity.bundle",
+      "original_sha256": "2549b7dbe011a25580b874f8ae3ed2fc1fbbecc392af86b1dfa1bd8433b6bd0a",
+      "patched_sha256": "ccfe1c1157827af8e871d28851fabd05b2a1818ce8c927a5c394eb6ef49eddb4",
+      "patch": "patches/071.spdelta",
+      "patch_sha256": "7a8c4e200c08a819ba90919f19810be197f5d47bef1f4ade68313692b1cb074b",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_park_statue_masks.unity.bundle",
+      "original_sha256": "c73b0c15affb008be178b576afe0430bcbdf6ae41bf0f130276acebabd2c3563",
+      "patched_sha256": "5cb66eaf8232ae366e51b08d4a2bedb32137049a2b6803a7ccc150958a8d82f2",
+      "patch": "patches/072.spdelta",
+      "patch_sha256": "75ded951b5661b864c45f8a20454c21af13c453c3dcaf5e14fb25339f416123d",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_park_townhall_clock.unity.bundle",
+      "original_sha256": "853fe7a13be0eb9e8a5df0db7bab58be2c1305c639b1320121c05450d731ec00",
+      "patched_sha256": "37ddc98fffb1c31a30813f3832185c2c9dd7cf26fcaf387cfeaaf04e0de6d788",
+      "patch": "patches/073.spdelta",
+      "patch_sha256": "345f0c717bb3e18e3e5f54ea4ff23e0cc4ae8306a7dc1ab4c2d7a5d5652e6586",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_pdfusebox.unity.bundle",
+      "original_sha256": "a226825fee16b8f4bcf9fc48c00bc309739cff1d02066db542cc7426e9f61aa8",
+      "patched_sha256": "03c9553efdbe55db257218b9b599f248278fe39192ccaea5c4bb4d471cfdf2f0",
+      "patch": "patches/074.spdelta",
+      "patch_sha256": "1b40af7550c1a0a574fc2c4dd5785c36965a2470888aed2e9c08c406166b090a",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_phonedialing.unity.bundle",
+      "original_sha256": "9c5bc5122e9d09b5bc57d2fca9abf3f73e603258ef5b83caf7178b4927f9ddde",
+      "patched_sha256": "332916d1249e7b7a0b6bc857964c185be7a53efd2d50b7488318dcd2a560167b",
+      "patch": "patches/075.spdelta",
+      "patch_sha256": "16038957e6b027b7d2b2a62b00bc8c4dbe9079376efb7e58953cfdc0954c80c1",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_riverside_gasstation_door_peak.unity.bundle",
+      "original_sha256": "384d96273aa961fdb925d3156aff971abd6435eaa56ddff3f1b0c8f5783348c7",
+      "patched_sha256": "5763af2c0ea8561805213cb2099a7b1f9a3805663b913d07cd4d3d0468bdfd25",
+      "patch": "patches/076.spdelta",
+      "patch_sha256": "ab3214d7a64007058dfc982bd80d7bc6390b0513c00323c3117f78999f9cecf8",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_riverside_policeradio.unity.bundle",
+      "original_sha256": "e30c69fdff77cd9619378b20dd3c320b0ad8c1d3d34b94e4a4a81b2776185c45",
+      "patched_sha256": "2a041aea399537eff4b34e85093d072a7868734a5cbf83f2f15de4103894eabb",
+      "patch": "patches/077.spdelta",
+      "patch_sha256": "f9ced1aa44e8610ba5be40df603a337e2d0c9202f237ebb9b709a7dfe86218f5",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_riverside_truckradio.unity.bundle",
+      "original_sha256": "e45054298f384643593458175acf3f4e1cbfc0746f4b93b39a0d3ecc8815143d",
+      "patched_sha256": "ad0b45e60de6963141e2a045d9a69c66633760206706e025270d23eb337bb202",
+      "patch": "patches/078.spdelta",
+      "patch_sha256": "0000df2cbb90e0bd5e5afc95e7ed4ac4ba66f3af85f46c04d871d0704c4ee441",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_sewer_tank_gate.unity.bundle",
+      "original_sha256": "abfd95dcf762142bf58a6cc5883a73b472913cebf64ba03f167e2d37bc85e4fd",
+      "patched_sha256": "1199886a21c737c3b0141c0e687b71c2effbe4d3b5f5368fb99322190b8bde66",
+      "patch": "patches/079.spdelta",
+      "patch_sha256": "6c17a8eceb2ad607377fa86a6d0f507f6594eada86a1691ea4ee48e15510ee29",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_sheriff_body.unity.bundle",
+      "original_sha256": "6517754638f4370a64911aab94b73f1ecb372edd55e723480031c6d0f520af08",
+      "patched_sha256": "be50479eeef151536da85fd2066491cd209113449a10f6dcf96e827aafa17a51",
+      "patch": "patches/080.spdelta",
+      "patch_sha256": "1b712aa9c2ac0e8dc9047356008715361971c053f06d5bd5fb5edf8ab371268d",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_sheriff_officesafe.unity.bundle",
+      "original_sha256": "e2e11374bc697555aac993001224293bcc2a0c85ea029b6ee7133f68796774c1",
+      "patched_sha256": "f6ba7b9bd8876a37934816286be9415e69e7b184186e22704078ee43592f814c",
+      "patch": "patches/081.spdelta",
+      "patch_sha256": "39d0d4c853feea32919c87221a12ac45b4abc31ee45dab69ce73b566e9248c47",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_sheriff_painting_1.unity.bundle",
+      "original_sha256": "ea717bfe9b583734268f5a7014bb2ecd956be204045cd0ee2c5a3c15f4e5b2eb",
+      "patched_sha256": "c5563321c06ebbf7fcd4c29fedabdeabda29a082ef60efbb2f8a9cd8a33ca450",
+      "patch": "patches/082.spdelta",
+      "patch_sha256": "79774b2875ad6a097f50f611c10080fbc595f61a79fa97b0d4b8f166e012c6de",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_sheriff_painting_2.unity.bundle",
+      "original_sha256": "d98652de586dc1ca195fbb7386739c7d062bfd8fcf4f477796d548ded880f9c9",
+      "patched_sha256": "30cb138ccf437238a5ad55586a25affecbc1f61d4c6d4f7b13dada5785817c83",
+      "patch": "patches/083.spdelta",
+      "patch_sha256": "964ba5d9b229ed332811cc80ec5bdca323304b749af550316392e5d77db55877",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_sheriff_painting_3.unity.bundle",
+      "original_sha256": "d4bd31be6126dde9ead2a326918cf3cdb55d93558cc760be305ac6e1b57fa40e",
+      "patched_sha256": "1a88b99145a2844cbdd9984114cb5712ea1c31be4ddcf6ab26d722385666c0b8",
+      "patch": "patches/084.spdelta",
+      "patch_sha256": "6ef7806df7126a6a09be5c4996a567e24af070d84ce3f39de60da7b888d59963",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_sheriff_painting_4.unity.bundle",
+      "original_sha256": "d2e3d9f8d5e6087d65ccd556314a441652cc84e06b55fb84916c1d2acdb152f2",
+      "patched_sha256": "b748a2dfd71a03aca1a639c913b281a5ce18ebbb9b3cc30b68cefc41b1fbafc6",
+      "patch": "patches/085.spdelta",
+      "patch_sha256": "f82bb0894ebe70f8221d20d7acefd47ecae5286bf73efc4cc516ed6934076927",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_sheriff_projectorslides.unity.bundle",
+      "original_sha256": "209337fb78a498fb1f5db4aa5e66f3adbc3e59f41634c6b215745dee608a8ffa",
+      "patched_sha256": "8052c0294be4b52d8fe5a4bcaa7417c405c374bd2ddf50bd188dc45882d735e4",
+      "patch": "patches/086.spdelta",
+      "patch_sha256": "fd52868208a383a39c05fe87b3ef3c8f570fb0d29ede18db9d167506d3bc93ca",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_studio_cablepanel.unity.bundle",
+      "original_sha256": "4fe08c32a78caa85cd1f5af4c0685c684fad92dd636f32c4e645054e0b7dbdd4",
+      "patched_sha256": "03961ebc29e6a91296d6021733baa2b194cbc5926d121e7cfd52f892f974d797",
+      "patch": "patches/087.spdelta",
+      "patch_sha256": "45a2c345b1d756aa0d87d5a435cbd7c0b720ed6abc9176209b2558b1d49d13d5",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_studio_nightmare_fusebox.unity.bundle",
+      "original_sha256": "2af6bf1e3aec4f6b3a4eff87ea2022830a0f5d32d7e771d5e4f0157dc300a97a",
+      "patched_sha256": "e6845c63911a109c69f2dc0522b7aada97eea9df15a459e55e5e504419cc8c7a",
+      "patch": "patches/088.spdelta",
+      "patch_sha256": "b9260d852b216a654b275a3baf203c6048525437ccdfc4643f23f060fbe1bdb9",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_studio_spotlight_controls.unity.bundle",
+      "original_sha256": "c7c93cc49bc3e1ef10b17ac6228a44f37f61a950fe6b6ca6cad2a320c4623b18",
+      "patched_sha256": "c18bd94d53c2c5a25ac3bbb0fdc6d3147d544506d2042b6ed73c5898368151c3",
+      "patch": "patches/089.spdelta",
+      "patch_sha256": "b9d7a9bc173e5cc32816835a9984b56873c3e5e0fbce6e3f865888d89d0cff51",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_studio_tv_monitor_peak.unity.bundle",
+      "original_sha256": "0186b4cb6a478b70982837250bd758f1b0acbabc2c0cb278260e60db60398ed6",
+      "patched_sha256": "fa2a9ecf10bb36dbf86dddbb2d0bd9f45bff35009a79963d76febe65b6c4748c",
+      "patch": "patches/090.spdelta",
+      "patch_sha256": "36759ae5f54cbe4d3cb1ff221ee9da3cda16c5dbc2699585f77b97216035d422",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_assets_scenes_minigames_ventilation_generic.unity.bundle",
+      "original_sha256": "851144f61eb8892993e79b7686132de910c219912f0c7617234bbe1d14fd2c9e",
+      "patched_sha256": "7db48e306c6e4210e906f4ed76eff0f5287a8256a652dd73e8fed02c1b2cc132",
+      "patch": "patches/091.spdelta",
+      "patch_sha256": "a3dd84e1893102a7efb61cce8ccbd539586fbab924523198099915e395996d66",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_minigames_dinernewspaperstand.bundle",
+      "original_sha256": "444070b32b178eefc12bc4a289ee25b7f8e5ac77f97ed8ee42236945e606bbfc",
+      "patched_sha256": "a05cabc967356497c1dbf14cb13ac29367a679d88567ab7adad9cfdf7ef4959d",
+      "patch": "patches/092.spdelta",
+      "patch_sha256": "21ecdf844c8987dbd9f8817b16940d70f0d21e39799807230bf80a934bf46aa3",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_minigames_keypad.bundle",
+      "original_sha256": "5240377feaa5325c6688a47ab8f0558f5c882b841f04567a70b0b2679a11b053",
+      "patched_sha256": "27c97db80deac7c8f72e1472abf84a02b7bf93d80157628ebf352cbcf4d41e1f",
+      "patch": "patches/093.spdelta",
+      "patch_sha256": "c22bb42fa8a81b3a610f8a24f946e071cd2298e813c959791400387b4f003eac",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_minigames_moteltriplepadlock.bundle",
+      "original_sha256": "7abc382d253748c47f9a7dc74ea28b1211dced7765b61cc201bf993aea0354ef",
+      "patched_sha256": "693c938d337abbf30f27cbabda715cba3e99de990c8c2020cefe923a72443bdb",
+      "patch": "patches/094.spdelta",
+      "patch_sha256": "a0b8a654da7942110cd3b4fef4c63e5b5247051cf4e5d1a35123cdcb78d80f88",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_minigames_twofusefusebox.bundle",
+      "original_sha256": "d84c70e04721f64a38f3f940f3c8b3c6b5363ea48270d6d0ca0e8ba32ecddc2e",
+      "patched_sha256": "8734f2ff268c2a784070699ad5fa9e63de89986e4c3c38bf7058f75070829085",
+      "patch": "patches/095.spdelta",
+      "patch_sha256": "b09654b48a8446ccac6e4b09f1cb8528ef31d0b3676d06fc05a15979e4889a0d",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-minigame_scenes_minigames_vendingmachine.bundle",
+      "original_sha256": "931cb290bbd16dc384adecf379de727fbcbaafc07ff4c6c69d20af2f349491f8",
+      "patched_sha256": "d45b91671fd0c1fd22957186ce0d0ebd5224933ee8ef81ebad355c85823ce428",
+      "patch": "patches/096.spdelta",
+      "patch_sha256": "bd6841b51d03916fbfa7cad456329ad763be5367fcf89700f80ac49f7695eef5",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/scenes-utility_scenes_all.bundle",
+      "original_sha256": "d3cdf2003d1a262fbc5c74ce0ff27196b2b7d75199532f403fd50fc7a3063cfd",
+      "patched_sha256": "97e2c709c1e55021323a2fe687be27f39faa05d521639f9ea5f7f3fcbfab3663",
+      "patch": "patches/097.spdelta",
+      "patch_sha256": "f3ecd72d91938a0cbba6e000f9054faee1997fbd40762a3e4a32dd89f794e6c7",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_base_comics_assets_all.bundle",
+      "original_sha256": "3732ed578855b17e7aa6d6834626012383ecf847ce834b6a3e9913e5f93f1a5d",
+      "patched_sha256": "035c96d1491c22b2575488267a209339f8ff26c50cddfa98c231c4932c7bc578",
+      "patch": "patches/098.spdelta",
+      "patch_sha256": "dd8ca0155b972dc5621d35e8c4851e206f9d4fd29edbadd6793b056bd074e1c1",
+      "previous_sha256": [
+        "bbb4b73bc8b43bbd09719d28dfec39c122cec5ab85078b06419a45c6ab59b1e3"
+      ]
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_base_general_assets_optionspage_ingame.bundle",
+      "original_sha256": "e17c320d4f8f69cf31adae5beb54fd1d1d635662d413d56219b7e5912d5c7155",
+      "patched_sha256": "bf17c294d343e99db540b9bee3b4dca0c63909a3498d517d4515a3446cfc02bb",
+      "patch": "patches/099.spdelta",
+      "patch_sha256": "7346c6d8794fb4ac7577996cc6a2f8934d8bbfb0101938fd8ddfb9e5e74e0224",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_base_general_compressed_assets_choicepanel.bundle",
+      "original_sha256": "fd99d09808ac524536e5077a9d53e8bf444b866133c8c3394a6dc852c494b1e3",
+      "patched_sha256": "b0805aaf72e9360063a8487e418576f350783ceaed2bba4d6a2f9af9ad6e5ec2",
+      "patch": "patches/100.spdelta",
+      "patch_sha256": "1b49cc3042a545dc59e5f2129d049f0f712369ab21d417e04e29611aa2690db5",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_base_general_compressed_assets_cycleoptionwithsubbuttons.bundle",
+      "original_sha256": "aec2c1bfa30ea3c601100ba815ae380b705072aeb0688cff516a5a05522fd497",
+      "patched_sha256": "b88eac71a3f14f86acc52bff95203fd99b490dbb4ab719d3b7eed608161ee2c9",
+      "patch": "patches/101.spdelta",
+      "patch_sha256": "fd25d1062752087bfe55d8316c7f5bcb169f3a35bd0baf633532d982e1214510",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_base_general_compressed_assets_dialogue.bundle",
+      "original_sha256": "34a0156869adc2928af5e019db2f84e9e7f4fce485ec36e524af1fe0a8c95f12",
+      "patched_sha256": "9cae9882a74f3204a0132f3b3f4f8803a9d83efbe279cc9a81ec3da5af47bf2d",
+      "patch": "patches/102.spdelta",
+      "patch_sha256": "6d3bdb5e6c8732589f42bfc22ce4790eb4656038329b84e3d2a3b1e3f1320460",
+      "previous_sha256": [
+        "5e6572bbfe3b04493d630c883951bbfb2100b882a09b7ff5766291bd01f62ce5"
+      ]
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_base_general_compressed_assets_itempickuppanel.bundle",
+      "original_sha256": "59a8a2ace1f800cd73edb83846d5eff674324be5ce490f567a1c13606d54cd6b",
+      "patched_sha256": "6c785139bb68eaf83698328f757a58f97bf0ef1b05d3c3f0187ce649ec8e98fe",
+      "patch": "patches/103.spdelta",
+      "patch_sha256": "6c62517e0272bcac4c809a3236c729abbbd3b208486e5c2b6770186d4932f85b",
+      "previous_sha256": [
+        "35e53a1e6924be7a30bad9a8ce5c41f8713e058a0e8f3ad0fb6708f5eed179c0"
+      ]
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_base_general_compressed_assets_keypadcodepanel.bundle",
+      "original_sha256": "d484084b5020c12f4499b2f818a47770abb0018bb19d1d8a51f47661f0bef58f",
+      "patched_sha256": "a456bdb83149b91236629902e4c043cf7c291fc70b9f810234433098ea3b04b3",
+      "patch": "patches/104.spdelta",
+      "patch_sha256": "386080a9449e85eef8a8aa9a0a7f80de1675d65636c92597e7783afd9f0f8c2b",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_base_general_compressed_assets_mapfloorsinfo.bundle",
+      "original_sha256": "e1156f656fb0eb8f666e2116a303db83d0583770684b6c5fecdfe5428e69c7df",
+      "patched_sha256": "4c19ff97554a5183cfa251a795bea6be135e8a6b220f593611cd6e53e68fd9cf",
+      "patch": "patches/105.spdelta",
+      "patch_sha256": "eed3d153c32adfc4552da4f806277ef71c12eb1c0c034064c0789b0494c14a8a",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_base_general_compressed_assets_maplocationunknownpanel.bundle",
+      "original_sha256": "d8f0912e4077cb0be03781e5075a5601910623b80ceaf75d32f34fef54be9cae",
+      "patched_sha256": "8095c7ca8e11bb11b4f8030156ca991594188d7f59201fa4337699f64d5c6e18",
+      "patch": "patches/106.spdelta",
+      "patch_sha256": "ccaaf03a83ff09d458529c9e2ed315208b13244db90fcfe33516b0163adc109a",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_base_general_compressed_assets_menubarbuttonprompt.bundle",
+      "original_sha256": "bd7a8ebabf4493b32b6c3c3aafd72dcfa0bdf5c24779e617e3cbd493bc28a054",
+      "patched_sha256": "7f9792a5e44ef92b96daba1001091160d16929fcf5b9f41f8b2c14f9f6c53003",
+      "patch": "patches/107.spdelta",
+      "patch_sha256": "ce7e94de4777456a353904b75af58a435cbb1f7e4d625c28e553a46a4ad6705f",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_base_general_compressed_assets_minigameradialdial.bundle",
+      "original_sha256": "e71cd4f62451eda851e5fc216f4d2b84e55263104d023a8377319d81bb277ec7",
+      "patched_sha256": "7866b86e479d7aa088fc4c537c090e3a94f0a0e1e0100cf1f2af7dd6456205db",
+      "patch": "patches/108.spdelta",
+      "patch_sha256": "ae5860321a39f9a98e7acbf57fb94c157fc7dddcf5d4887b430590d0b9ebc86c",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_base_general_compressed_assets_minigamesroot.bundle",
+      "original_sha256": "5aadf9e85caa9dec90fd6aabc7bb6e007be0d86421e4380d9da83f628f5158b0",
+      "patched_sha256": "8b422c43b502947ed6f29054d70303689dddbeda1d838cd26f329d24d69b3065",
+      "patch": "patches/109.spdelta",
+      "patch_sha256": "2b54560630e4df90b9884d692f1680e89e04501cfd5d5f5b8455426c552d9856",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_base_general_compressed_assets_notespagelorereader.bundle",
+      "original_sha256": "4d74e02356eee3086a510f365b743313e86800ff3c04de29904c1742b6b2c826",
+      "patched_sha256": "df4a0cd2c51cd391d3871faabe8139b5086afe76e3e7ce01f8dfc0f60e6416f7",
+      "patch": "patches/110.spdelta",
+      "patch_sha256": "6f733646efb3634edb9111401d7c6abb19ade6af7d6c1633875d6562be6139ac",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_base_general_compressed_assets_optionspagetabbutton.bundle",
+      "original_sha256": "378e951acb5a14b5afa2692f656db286587de5c2f72dab3f2d7116093878f3ea",
+      "patched_sha256": "7c54a754cbfc4157f5175624b481927bd0698791dde3eeab7639c9259be2d7f3",
+      "patch": "patches/111.spdelta",
+      "patch_sha256": "c858b338e3b2b2d5edb362301f8580f51c0f6745826634f4139d524f1721eed2",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_base_general_compressed_assets_optionstab.bundle",
+      "original_sha256": "83f2e88e0e2d024dcaf669836f6fb72793e646951c74f166f16e37a9baefb826",
+      "patched_sha256": "a5b99a826c2ca94784576afba6e65fb170cb97f0fe13115513780a0af56e57c1",
+      "patch": "patches/112.spdelta",
+      "patch_sha256": "c726282337195b4a0f5cf9fe2b1f5439a4c1ccd9cb5469d53851ec81cb76d918",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_base_general_compressed_assets_pausehintinfo.bundle",
+      "original_sha256": "86f2ad99dcf1b366cf50be3b2c9383fcf3ded2b1ac9e3060f9dfaa399be7ed8e",
+      "patched_sha256": "f7439cdfbbcc70596b5759c5d1e6a8c0a8c4fd09b722d828c18ca6203a970724",
+      "patch": "patches/113.spdelta",
+      "patch_sha256": "66b61e4b806f75dba2de3a281f9df7d13ec57befd0a1f560fefcf0980e0d9fef",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_base_general_compressed_assets_profileselectionbutton.bundle",
+      "original_sha256": "57111e0e60b533da1077a8abd94adbce96c915260bf6f2f77be8e785a1022715",
+      "patched_sha256": "245840e345c9482b9e3320247d28bc3df5603a61725505b1f14ce91e3c9573d8",
+      "patch": "patches/114.spdelta",
+      "patch_sha256": "1333141d21fce83f50cf94368e97936f6c3c9c01da66f973d2dff5ace073773b",
+      "previous_sha256": [
+        "311e1adcc99b18e8efbee47e07d41a38961a788718ae754cf8e1ac34523070b1"
+      ]
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_base_general_compressed_assets_saveselectpanel.bundle",
+      "original_sha256": "c6a83fe732be6051b8bd1e6c458b865306f05948d421ee04348854dd7e83e4d3",
+      "patched_sha256": "a24304dbf648163f7593a7a97ad4eeef772f9f97148bceb81fc702ec63838ccc",
+      "patch": "patches/115.spdelta",
+      "patch_sha256": "e4d64465653bc2bcf0a98fa587f20aea89f1e6b1c869892fa82565e48f007740",
+      "previous_sha256": [
+        "d91f83ab2851e24bc2c9c728c3c8809559f79524e09a073357b20f20ee039d8d"
+      ]
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_base_general_compressed_assets_t17popupdialog.bundle",
+      "original_sha256": "11c03ca3dc44c1d098ea95e6aafaac988a228575d1c8edc2485f6854e109748b",
+      "patched_sha256": "562391e4e8f4989fa32362bca1a0cf5c0c3b8880c1a174af18922610e38a9389",
+      "patch": "patches/116.spdelta",
+      "patch_sha256": "bade62c6b14ece5891483a63b92de657265297cd6bffd9e14b77abb75247c7ee",
+      "previous_sha256": [
+        "d1fb75697a5946f39c3a16f1cc255f494cb78401e7ad31e3f0658dc0f08d25e7"
+      ]
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_base_general_compressed_assets_worldmap_levellabel.bundle",
+      "original_sha256": "02e3f17b272670928af01195d1d18a2690ef68c267010baccb50fd9e045578cc",
+      "patched_sha256": "2643b327092e4c4c5336cf8914d1e898341a476b3b35fcda585b3667375ae360",
+      "patch": "patches/117.spdelta",
+      "patch_sha256": "835b0b7e4937a0c1d39a5252383056326194caa34a2f7842fcc87708d8055dc4",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_base_scene_assets_assets_credits.bundle",
+      "original_sha256": "a237cfe2cc211a2b433f0e71ca91a10d76b25e5ff088a1a90c8006aabc4c086a",
+      "patched_sha256": "9d06664cb1eeef4f98de6e305f1b86003512a5bf4e40e6243ade122aab9ceafa",
+      "patch": "patches/118.spdelta",
+      "patch_sha256": "514a4328c456ad57aa60316f9912ed9953244521a7769501168bd9b0dc4d2963",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_base_scene_assets_assets_ingamemenu.bundle",
+      "original_sha256": "bb1fbb00e62bc8ee96f947819309e0bb25a4b40428d34debb238f7cbe867d26e",
+      "patched_sha256": "76459b681d97213cbfe9d7e267addb712b8a65ae2c29bed3d45568ddd483df03",
+      "patch": "patches/119.spdelta",
+      "patch_sha256": "99ee9fa06d76d526fbf43eb727cfd28c822c0984e1cd43d1cacf4b5462c0d8f5",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_base_scene_assets_assets_systemmenu.bundle",
+      "original_sha256": "65475ab6e890e423564cf6ab3ff2019b60b632a42be298dc0552c51a62b9152b",
+      "patched_sha256": "badf03248b942c253fb24f2bf33b1659519790198a7107f24d53f006aada7a79",
+      "patch": "patches/120.spdelta",
+      "patch_sha256": "3d08a7f4f62d792f082016433183488e1e05d82d738f95061c89e45183efe931",
+      "previous_sha256": [
+        "c03eceb66eefc3afb9e8a76c89d08ccc39d8725d28679055171048830527f2b2"
+      ]
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_base_scene_assets_assets_worldmap.bundle",
+      "original_sha256": "8be2064f27ec6064c5591aa35ccb126fb70f6f70f0d1750a8c853953e483b39c",
+      "patched_sha256": "73b859c3a3dad8467fc59fd46116c1e82153eba1357a43896940155c19d436a2",
+      "patch": "patches/121.spdelta",
+      "patch_sha256": "dacf526dd734b596b7a300be3225ce0d2e304f8484d97dbe03c70cffe073272f",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_base_scene_assets_compressed_assets_downtown_sewer_pressure.bundle",
+      "original_sha256": "38565c131640e4e39349ce7232f731d4aded04c904e0215995d5001aa889a4fc",
+      "patched_sha256": "ea95b4d2e892dad8489378ad4ec7afbba79b8af70c3f39eb3ce47c42d183a2ca",
+      "patch": "patches/122.spdelta",
+      "patch_sha256": "eeab074ea87c1082415add3b159e7e9c5e1edae1e3c74236a65405d368bf08d7",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_base_scene_assets_compressed_assets_ending_beach.bundle",
+      "original_sha256": "860d00c9380f96025307226c53229cd056d7b2ba11839c15107d29bbd948670c",
+      "patched_sha256": "165917bc6ac54b845015751ffcdcef0f4e0e3a530f3290c4a195ae1f96d14a38",
+      "patch": "patches/123.spdelta",
+      "patch_sha256": "9e3f7eeae9c8ca4d55306ab0b35e2dd9ddff1020b81df1d78b81b30b5f4296df",
+      "previous_sha256": [
+        "8e499ff1081f30e132acdada484d266ed7af828e1723fdf4958d14fdfaa640ce"
+      ]
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_base_scene_assets_compressed_assets_gamemanagers.bundle",
+      "original_sha256": "53c71c31d960b21ca21a35334f0b6678623dcbbe98f4485d0630f8d386547e73",
+      "patched_sha256": "2ff87f5b3256865cb2d49a139cd61d444c41d2d6a37eaa2123eff50b54660c89",
+      "patch": "patches/124.spdelta",
+      "patch_sha256": "328cc09454df4eb2a906746a0070683e2ffa42c936c5eb5f99556a9c8cac6791",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_base_scene_assets_compressed_assets_gameui.bundle",
+      "original_sha256": "3a572bfde11b88e652c3bb492f15d7f6e984200b21b030f07788ef243da573b1",
+      "patched_sha256": "f16d3623458e994f2ff909b6545239b49a6c2c9651050f3dae667c0e6cd815c3",
+      "patch": "patches/125.spdelta",
+      "patch_sha256": "a8e384274812f1d5dc3b6132a6ad098d1d82bf6f6e6adb809a5c2bd147c2cb93",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_base_scene_assets_compressed_assets_phonedialing.bundle",
+      "original_sha256": "9ba87d10308d954f268f8dfb00cc7eacc97966651a6372ed0b1f5101cba2f45f",
+      "patched_sha256": "cbf23b53e5b9543c1c7a8063a5a5af382025b194db4bcb33bf47a66c9539d309",
+      "patch": "patches/126.spdelta",
+      "patch_sha256": "8a126c94908a922dfa5d1408501b097e6a21a0790959b700b00a0b4eddbd0421",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_base_scene_assets_compressed_assets_studio_spotlight_controls.bundle",
+      "original_sha256": "97e94145d31715bfa572afe9e8a5fede68c9b060c3b71e3b32857d1493e9025e",
+      "patched_sha256": "2af86af8550e6e2bed2b852e02a9e3dd7bc84c5ddf60de47f51fd95ae5da2b9e",
+      "patch": "patches/127.spdelta",
+      "patch_sha256": "51628d7ddfe5fa057606a98fc1df25e427d6cf11dbea9655a94647485b336767",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_base_scene_assets_compressed_assets_vendingmachine.bundle",
+      "original_sha256": "253079b73b82b3a8bd7ebdd24194b9df4c71a864086bf2c08c1cb1cfd2a3d078",
+      "patched_sha256": "f11d4c9cae3329da9b2e62a3e63fc1561227a8062f53226ef0f82cad8704408b",
+      "patch": "patches/128.spdelta",
+      "patch_sha256": "1f9436c70a746d8ee43a2e8fc4497ee7361626c2cebecba45a8bc22ca26653c0",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_patch_general_assets_all_804540f42d8185a51e1c327d447d7737.bundle",
+      "original_sha256": "ad8a590584cd5bf41016b5c1be2828c13b46ff5ea7285a486c47a5c5746b49de",
+      "patched_sha256": "99ce2118af3367382c03ebee251506b72306b03f8f8ad2375628679c89a1e831",
+      "patch": "patches/129.spdelta",
+      "patch_sha256": "d2e6e868b5800eb40fc6e9bea01dd6c79fd3bf36a167d45eb7d023246edd11b3",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_patch_general_compressed_assets_healthalertpopup_3f9613666dc6910ecada41aad733c47a.bundle",
+      "original_sha256": "86f226830943c75b48597ca17f4eee999428117c4d450c6afaac0e1e2f233152",
+      "patched_sha256": "10099d61dbfe68976e0b1f89fe5bc0809732b3f2e330a11e29597efd4440a371",
+      "patch": "patches/130.spdelta",
+      "patch_sha256": "591b52325799344d6cd317dfc239a7bda4096aa5d395ad549b80d3d0a4024593",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_patch_general_compressed_assets_savegameselectbutton_ingamemenuvariant_35f032f1ddc19d2788a67d51ffc51147.bundle",
+      "original_sha256": "b566ffedff029136e7a55333452f6643b4b34acad28553aba0fb9413bb57a7e4",
+      "patched_sha256": "b324bcf1e16fc48719112180d2bf7eddfcc22ac08279ce87e60acadce73af420",
+      "patch": "patches/131.spdelta",
+      "patch_sha256": "846a1911fd83217d220aaa85bfb01b232d1e898643e4268a5971f7633e2ff277",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17_auto_patch_scene_assets_compressed_assets_ingamemenu_7858b1b6259aed864c15dbf3a0b4781e.bundle",
+      "original_sha256": "34377e20d18d8527dfcc5d4cbb0215f8de4484ca303a79f1d2e85170ba4e176f",
+      "patched_sha256": "9e9677e4874095f98694662c5adeb9c24ed58119ac38353f733999a46abedc1c",
+      "patch": "patches/132.spdelta",
+      "patch_sha256": "49bea1f0ac227daa71643f3835526972ed01186a7c2c823c1dccd30f72d8b745",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/sharedassets0.assets",
+      "original_sha256": "37d22d4594b58744e6d31404803ecb607ffb69a90193b702e21d00ecbbdd9666",
+      "patched_sha256": "0d7ff52bb2b5d5b235cae8b816c5485ce78c26bd6bb8ee596426f7f745094129",
+      "patch": "patches/133.spdelta",
+      "patch_sha256": "b0edd662e72fdd95a68536a1b1603920842af0418bcda816b8ac3ef5e92f1b77",
+      "previous_sha256": []
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/StandaloneWindows64/team17-default_assets_all.bundle",
+      "original_sha256": "a7f921e12707772778bb122d031fe9e3b9f4751c306dca98533e9e0fbf066098",
+      "patched_sha256": "f9df176611f920d1d6d688030a4f0bdf78ce44a907540848d54fb175e642b31b",
+      "patch": "patches/134.spdelta",
+      "patch_sha256": "3fc7a0d30272f7d8b3ced06cce4c5b848ca492188177a3ce736d318aee72e053",
+      "previous_sha256": []
+    }
+  ],
+  "guards": [
+    {
+      "path": "Carpenter.exe",
+      "sha256": "bb57357542a7d130445bf9a11f0a9387a1cb1f6b03a9e88946a640d374827600"
+    },
+    {
+      "path": "GameAssembly.dll",
+      "sha256": "7110a03694617f57c8dbd0d00e31155ae321f81288893ac887b3b18ccb9dd883"
+    },
+    {
+      "path": "Carpenter_Data/StreamingAssets/aa/catalog.hash",
+      "sha256": "fc9633148e2a964b5a8e0a34be0faa46d2755b3b703d7fe489cfe3386f4a736c"
+    }
+  ]
+}
